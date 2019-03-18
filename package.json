@@ -1,7 +1,7 @@
 {
-  "name": "node-github-contributions",
-  "version": "1.0.0",
-  "description": "",
+  "name": "humanize-github-events",
+  "version": "1.0.1",
+  "description": "Parse, extract and project useful data from github events",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
